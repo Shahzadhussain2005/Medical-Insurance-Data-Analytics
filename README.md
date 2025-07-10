@@ -68,8 +68,8 @@ The dataset contains the following features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yShahzadhussain2005/Medical-Insurance-Data-Analytics.git
-   cd Medical-Insurance-Data-Analytics
+   git clone https://github.com/yShahzadhussain2005/Medical-Insurance-Data-Analytics-ML.git
+   cd Medical-Insurance-Data-Analytics-ML
    Install the required libraries:
 
 bash
